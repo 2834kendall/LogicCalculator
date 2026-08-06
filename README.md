@@ -40,7 +40,7 @@ The project focuses on the design and implementation of digital circuits using c
 ```text
 LogicCalculator/
 ├── docs/          # Project documentation
-├── circuits/      # LogicCircuit (.circ) files
+├── circuit     # LogicCircuit (.circ) file
 └── README.md
 ```
 
